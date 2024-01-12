@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%E2%AD%90-issam-bakha-a10b7b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issam-bakha-a10b7b205" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/issam-bakha-a10b7b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issam-bakha-a10b7b205" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IssamLynx&show_icons=true&locale=en" alt="IssamLynx" /></p>
